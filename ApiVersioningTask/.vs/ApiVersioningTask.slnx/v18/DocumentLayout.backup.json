@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\github\\api-version-Task\\ApiVersioningTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D99E20EC-097F-E6E3-6EA8-56218F10E469}|ApiVersioningTask.csproj|d:\\github\\api-version-task\\apiversioningtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D99E20EC-097F-E6E3-6EA8-56218F10E469}|ApiVersioningTask.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D99E20EC-097F-E6E3-6EA8-56218F10E469}|ApiVersioningTask.csproj|d:\\github\\api-version-task\\apiversioningtask\\controllers\\v1\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D99E20EC-097F-E6E3-6EA8-56218F10E469}|ApiVersioningTask.csproj|solutionrelative:controllers\\v1\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D99E20EC-097F-E6E3-6EA8-56218F10E469}|ApiVersioningTask.csproj|d:\\github\\api-version-task\\apiversioningtask\\controllers\\v2\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D99E20EC-097F-E6E3-6EA8-56218F10E469}|ApiVersioningTask.csproj|solutionrelative:controllers\\v2\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\github\\api-version-Task\\ApiVersioningTask\\Controllers\\V2\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\V2\\ProductsController.cs",
+              "ToolTip": "D:\\github\\api-version-Task\\ApiVersioningTask\\Controllers\\V2\\ProductsController.cs",
+              "RelativeToolTip": "Controllers\\V2\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T14:53:12.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\github\\api-version-Task\\ApiVersioningTask\\Controllers\\V1\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\V1\\ProductsController.cs",
+              "ToolTip": "D:\\github\\api-version-Task\\ApiVersioningTask\\Controllers\\V1\\ProductsController.cs",
+              "RelativeToolTip": "Controllers\\V1\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T14:33:04.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\github\\api-version-Task\\ApiVersioningTask\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\github\\api-version-Task\\ApiVersioningTask\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAABMAAAAAAAAAAAAwwDYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T14:23:39.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+@ApiVersioningTask_HostAddress = http://localhost:5185
+
+GET {{ApiVersioningTask_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
